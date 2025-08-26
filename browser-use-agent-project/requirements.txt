@@ -1,0 +1,5 @@
+asyncio
+logging
+python-dotenv
+browser_use
+openai
